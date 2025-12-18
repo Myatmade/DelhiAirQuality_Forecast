@@ -112,7 +112,7 @@ The notebook contains detailed analysis including:
 
 ## Author
 
-**Myat Ma De May Phuu Ngon** (Student ID: 26002304901)
+**Myat Ma De May Phuu Ngon**
 
 **Course**: Applied Informatics 1 - 2025 ISSE Third Year Spring Semester
 
