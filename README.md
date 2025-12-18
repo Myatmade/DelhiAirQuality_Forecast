@@ -57,7 +57,7 @@ Data downloaded from [Kaggle: Time Series Air Quality Data of India (2010-2023)]
 
 ## Files
 
-- `delhi_project_MyatMaDeMayPhuuNgon_26002304901.ipynb` - Main analysis and forecasting notebook
+- `delhi_project_MyatMaDeMayPhuuNgon.ipynb` - Main analysis and forecasting notebook
 - `DL019.csv` - Delhi air quality dataset
 
 ## Technologies & Libraries
