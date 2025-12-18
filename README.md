@@ -96,7 +96,7 @@ The Jupyter notebook is organized into the following sections:
 
 3. Open the Jupyter notebook:
    ```bash
-   jupyter notebook delhi_project_MyatMaDeMayPhuuNgon_26002304901.ipynb
+   jupyter notebook delhi_project_MyatMaDeMayPhuuNgon.ipynb
    ```
 
 4. Run the cells sequentially to reproduce the analysis and forecasting results.
