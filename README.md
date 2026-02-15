@@ -110,15 +110,6 @@ The notebook contains detailed analysis including:
 - Statistical significance tests
 - Recommendations for best-performing models
 
-## Author
-
-**Myat Ma De May Phuu Ngon**
-
-**Course**: Applied Informatics 1 - 2025 ISSE Third Year Spring Semester
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## References
 
